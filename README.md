@@ -38,7 +38,6 @@ Projet réalisé dans le cadre du cours d'Architecture des ordinateurs, en Licen
 
 * `README.md` : présentation du projet.
 * Fichier(s) du circuit Logisim.
-* Schémas ou captures d'écran du circuit (facultatif).
 
 ## 📄 Licence
 
